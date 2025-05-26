@@ -24,7 +24,7 @@ Generate usage reports and analytics
 - **Backend:** PHP  
 - **Database:** MySQL  
 - **Programming Paradigm:** Object-Oriented Programming (OOP)
-- 
+ 
 Built using **modular and reusable OOP-based code**
 - Implemented full **CRUD operations** for jobs and users
 - **Responsive design** for mobile and desktop views
